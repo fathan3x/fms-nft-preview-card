@@ -1,8 +1,8 @@
 import { cn } from "cn";
 import "@fontsource-variable/outfit";
 
-import equillibrium from "./assets/equilibrium.jpg";
-import avatar from "./assets/avatar.png";
+import equillibrium from "./assets/equilibrium.webp";
+import avatar from "./assets/avatar.webp";
 import { Ethereum } from "./assets/Ethereum";
 import { Clock } from "./assets/Clock";
 import { View } from "./assets/View";
